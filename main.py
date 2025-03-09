@@ -3,6 +3,7 @@ def ui_function():
     print("Welcome to our Collaborative Application!")
 
 
+
 def business_logic():
     # Use Case Developer: Implement business logic here.
     print("Business logic function placeholder.")
