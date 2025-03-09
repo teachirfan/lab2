@@ -1,7 +1,10 @@
 def ui_function():
     # UI Developer: Implement UI-related code here.
     print("Welcome to our Collaborative Application!")
+<<<<<<< Updated upstream
 
+=======
+>>>>>>> Stashed changes
 
 def business_logic():
     # Use Case Developer: Implement business logic here.
