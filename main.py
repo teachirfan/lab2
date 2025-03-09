@@ -1,6 +1,7 @@
 def ui_function():
     # UI Developer: Implement UI-related code here.
-    print("UI function placeholder.")
+    print("Welcome to our Collaborative Application!")
+
 
 def business_logic():
     # Use Case Developer: Implement business logic here.
